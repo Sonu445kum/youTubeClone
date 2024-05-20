@@ -1,0 +1,16 @@
+{
+  "name": "newyoutubeclone",
+  "version": "1.0.0",
+  "description": "a backend of youtube clone with Mern Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Sonu kumar",
+  "license": "ISC"
+}
