@@ -1,5 +1,5 @@
 PORT=8000
-MONGODB_URI=mongodb+srv://sonuroy1629:sonu123@cluster0.pb1tydd.mongodb.net
+MONGODB_URI=mongodb+srv://sonuroy1629:sonu1111@sonu1.avkecag.mongodb.net
 CORS_ORIGIN=*
 ACCESS_TOKEN_SECRET=OTUCKcyqqZA
 ACCESS_TOKEN_EXPIRY=1D
